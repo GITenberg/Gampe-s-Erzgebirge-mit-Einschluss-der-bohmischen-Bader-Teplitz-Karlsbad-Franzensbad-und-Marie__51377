@@ -1,0 +1,27 @@
+_repo: Gampe-s-Erzgebirge-mit-Einschluss-der-bohmischen-Bader-Teplitz-Karlsbad-Franzensbad-und-Marie__51377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gampe, Theodor
+    birthdate: 1845
+    deathdate: 1897
+    gutenberg_agent_id: '46386'
+    url: http://www.gutenberg.org/2009/agents/46386
+description: ''
+gutenberg_issued: '2016-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51377'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erzgebirge (Czech Republic and Germany) -- Guidebooks'
+- !lcc 'DD'
+- !lcc 'DB'
+- GITenberg
+title: Gampe's Erzgebirge mit Einschluss der böhmischen Bäder Teplitz, Karlsbad, Franzensbad
+  und Marienbad, des Voigtlandes und des Granulitgebietes an den unteren Mulden. Ein
+  Reisehandbuch
+url: http://www.gutenberg.org/ebooks/51377
